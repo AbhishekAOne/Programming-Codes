@@ -1,0 +1,14 @@
+1.def max1(a,b,c) second
+2.def gcd(a,b)
+3.def prime(n)
+4.def range(a,b) return even no from a to b
+5.recursion
+*
+**
+***
+****
+*****
+6.recursion def factorial(n)
+7.recursion def sum(a,b)
+8.recursion def pow(n,p)
+9.recursion 0112358
