@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1563336816 source:c:\users\acer\documents\new folder\decimalto\main.c
+	<stdio.h>
+	<stdlib.h>
+

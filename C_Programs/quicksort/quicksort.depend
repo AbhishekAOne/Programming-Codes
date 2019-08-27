@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1566223643 source:c:\users\acer\documents\new folder\quicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+

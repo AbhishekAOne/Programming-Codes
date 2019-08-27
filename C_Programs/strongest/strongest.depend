@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1549431959 source:c:\users\acer\documents\new folder\strongest\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1549432135 source:c:\users\acer\documents\new folder\strongest\fact.c
+	<stdio.h>
+

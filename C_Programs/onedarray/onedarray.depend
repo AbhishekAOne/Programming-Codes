@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1560949435 source:c:\users\acer\documents\new folder\onedarray\main.cpp
+	<iostream>
+	<conio.h>
+
+1560949927 source:c:\users\acer\documents\new folder\onedarray\linearserch.cpp
+	<iostream>
+	<conio.h>
+
